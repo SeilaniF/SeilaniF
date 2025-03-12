@@ -23,7 +23,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeilaniF&show_icons=true&theme=default)](https://github.com/SeilaniF/github-readme-stats)
 
 📫 **Contato**:  
-<a href="https://www.linkedin.com/in/seilani-fontes-da-silva-13577a292">
+<a href="https://www.linkedin.com/in/seilani-fontes-da-silva-13577a292" target_black>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo">
 </a>  
 
