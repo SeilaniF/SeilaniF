@@ -19,8 +19,12 @@
 </p>
 
 ## 🛠 Badges:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeilaniF&layout=compact&theme=default)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeilaniF&show_icons=true&theme=default)](https://github.com/SeilaniF/github-readme-stats)
+
+### Linguagens Mais Usadas:
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeilaniF&layout=compact&theme=default)  
+
+### Estatísticas do GitHub:
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SeilaniF&show_icons=true&theme=default)](https://github.com/SeilaniF/github-readme-stats)
 
 📫 **Contato**:  
 <a href="https://www.linkedin.com/in/seilani-fontes-da-silva-13577a292" target_black>
@@ -29,3 +33,4 @@
 
 ---
 ⭐ Se gostar do meu perfil, não esqueça de deixar uma **estrelinha** no meu repositório! 😃✨
+
